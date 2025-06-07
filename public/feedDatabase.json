@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "avatar": "/user-img.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "position": "Software Engineer",
+    "name": "John Doe",
+    "company": "Tech Corp",
+    "post": {
+      "text": "Just finished a cool project on AI integration! It was challenging but rewarding to work through the complexities of machine learning models and optimize them for real-time performance. Looking forward to sharing the results with the community soon.",
+      "image": "https://example.com/posts/ai_project.png",
+      "likesCount": 0
+    },
+    "time": "2025-06-05T14:30:00Z",
+    "isLiked": true
+  },
+  {
+    "id": 2,
+    "avatar": "/user-img.jpg",
+    "firstName": "Emma",
+    "lastName": "Smith",
+    "position": "Product Manager",
+    "name": "Emma Smith",
+    "company": "Innovate Ltd",
+    "post": {
+      "text": "Excited to announce our new app release next week! We have worked tirelessly with the development and design teams to create a seamless user experience. The beta testers have provided amazing feedback, and we can’t wait for everyone to try it out.",
+      "image": null,
+      "likesCount": 4
+    },
+    "time": "2025-06-04T10:15:00Z",
+    "isLiked": false
+  },
+  {
+    "id": 1,
+    "avatar": "/user-img.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "position": "Software Engineer",
+    "name": "John Doe",
+    "company": "Tech Corp",
+    "post": {
+      "text": "Learning about neural networks today. It's fascinating how layers of neurons simulate human brain functions to recognize patterns, classify data, and even generate content. Hoping to implement some of these concepts in our upcoming projects to enhance AI capabilities.",
+      "image": null,
+      "likesCount": 2
+    },
+    "time": "2025-06-04T09:00:00Z",
+    "isLiked": false
+  },
+  {
+    "id": 3,
+    "avatar": "/user-img.jpg",
+    "firstName": "Liam",
+    "lastName": "Johnson",
+    "position": "UX Designer",
+    "name": "Liam Johnson",
+    "company": "Creative Studio",
+    "post": {
+      "text": "Working on some fresh designs for our homepage. Trying to strike the perfect balance between aesthetics and usability. It’s important that users feel both welcomed and intuitively guided throughout the site. The color palette and typography choices are coming together nicely.",
+      "image": "https://example.com/posts/design_sketch.jpg",
+      "likesCount": 1
+    },
+    "time": "2025-06-03T18:45:00Z",
+    "isLiked": true
+  },
+  {
+    "id": 1,
+    "avatar": "/user-img.jpg",
+    "firstName": "John",
+    "lastName": "Doe",
+    "position": "Software Engineer",
+    "name": "John Doe",
+    "company": "Tech Corp",
+    "post": {
+      "text": "Debugging is like being a detective in a crime movie. You have to gather clues, analyze logs, and follow the trail of unexpected behaviors. Sometimes it takes hours, but the satisfaction of finding the root cause and fixing the issue makes it all worthwhile.",
+      "image": null,
+      "likesCount": 3
+    },
+    "time": "2025-06-03T16:15:00Z",
+    "isLiked": true
+  },
+  {
+    "id": 2,
+    "avatar": "/user-img.jpg",
+    "firstName": "Emma",
+    "lastName": "Smith",
+    "position": "Product Manager",
+    "name": "Emma Smith",
+    "company": "Innovate Ltd",
+    "post": {
+      "text": "Team meeting went really well today. We covered a lot of ground discussing upcoming milestones and potential risks. Everyone was engaged, and it was great to see collaboration happening across departments. Looking forward to tracking progress in the coming weeks.",
+      "image": null,
+      "likesCount": 1
+    },
+    "time": "2025-06-03T11:30:00Z",
+    "isLiked": false
+  },
+  {
+    "id": 2,
+    "avatar": "/user-img.jpg",
+    "firstName": "Emma",
+    "lastName": "Smith",
+    "position": "Product Manager",
+    "name": "Emma Smith",
+    "company": "Innovate Ltd",
+    "post": {
+      "text": "Planning the roadmap for the next quarter. It's crucial to prioritize features that deliver the most value to our users while balancing technical feasibility and team capacity. We’re using data-driven insights to guide our decisions and ensure alignment with business goals.",
+      "image": "https://example.com/posts/roadmap.png",
+      "likesCount": 4
+    },
+    "time": "2025-06-02T08:45:00Z",
+    "isLiked": true
+  },
+  {
+    "id": 4,
+    "avatar": "/user-img.jpg",
+    "firstName": "Olivia",
+    "lastName": "Brown",
+    "position": "Marketing Specialist",
+    "name": "Olivia Brown",
+    "company": "Bright Marketing",
+    "post": {
+      "text": "Just launched a new campaign that I’m really proud of! We focused on authentic storytelling and creating emotional connections with our audience. The initial response has been overwhelmingly positive, and I’m excited to see how this translates into engagement over time.",
+      "image": null,
+      "likesCount": 0
+    },
+    "time": "2025-06-02T08:30:00Z",
+    "isLiked": false
+  },
+  {
+    "id": 5,
+    "avatar": "/user-img.jpg",
+    "firstName": "Noah",
+    "lastName": "Davis",
+    "position": "Data Scientist",
+    "name": "Noah Davis",
+    "company": "Data Solutions",
+    "post": {
+      "text": "Analyzing big data trends to improve our sales strategy. By identifying customer behavior patterns and market shifts, we can tailor campaigns more effectively. It’s amazing how much insight data can provide when combined with the right algorithms and domain knowledge.",
+      "image": "https://example.com/posts/data_chart.png",
+      "likesCount": 2
+    },
+    "time": "2025-06-01T20:00:00Z",
+    "isLiked": true
+  }
+]

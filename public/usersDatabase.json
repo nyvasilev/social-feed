@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "avatar": "/user-img.jpg",
+    "firstName": "Liam",
+    "lastName": "Johnson",
+    "position": "UX Designer",
+    "name": "Liam Johnson",
+    "company": "Creative Studio",
+    "likesCount": 100,
+    "postsCount": 5
+  }
+]
